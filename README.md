@@ -10,6 +10,8 @@ Go on https://www.delightex.com/ and click the execute button.
 
 ## Demo
 
+[![Gameplay video](https://img.youtube.com/vi/VDPbiq7PViU/0.jpg)](https://www.youtube.com/watch?v=VDPbiq7PViU)
+
 https://drive.google.com/file/d/1cDHNCglqj5M4KR-imsi--wFpOUFdPxH4/view?usp=sharing
 
 ## Authors
