@@ -19,5 +19,5 @@ Go on https://www.delightex.com/ and click the execute button.
 
 ## Roadmap
 
-- Optimize the map & code
+- Optimize the map using 'Scenes'
 
